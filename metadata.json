@@ -1,0 +1,7 @@
+{
+  "name": "Arduino Drink Dispenser",
+  "description": "Smart beverage dispenser interface to control an Arduino Uno for automated raspberry lemonade and water dispensing with Web Serial support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
